@@ -1,0 +1,97 @@
+@charset "UTF-8";
+
+body{
+background-color:teal;
+font-size: large;
+font-family: sans-serif;
+
+}
+
+.one{
+background-image: url(SCPhotos/snufkinbw.png);
+background-repeat: no-repeat;
+background-position: left;
+padding:40px;
+padding-top:80px;
+padding-bottom:80px;
+padding-left:130px;
+}
+
+.two{
+background-image: url(SCPhotos/moomintroll_littlemy.jpg);
+background-repeat: no-repeat;
+background-position: right;
+padding:40px;
+padding-right:200px;
+padding-top:60px;
+padding-bottom:60px;
+
+}
+
+.three{
+background-image: url(SCPhotos/snufkinwalking_small.jpeg);
+background-color: white;
+background-repeat: no-repeat;
+background-position: left;
+padding:40px;
+padding-left:220px;
+padding-top:60px;
+padding-bottom:60px;
+
+}
+
+.four{
+background-image: 
+background-color: white;
+background-repeat: no-repeat;
+background-position: right;
+padding:40px;
+padding-top:80px;
+padding-bottom:80px;
+
+}
+
+.five{
+background-image: 
+background-color: white;
+background-repeat: no-repeat;
+background-position: left;
+padding:40px;
+padding-top:80px;
+padding-bottom:80px;
+
+}
+
+.boxA{
+border-color:black;
+background-color:white;
+border-style: solid;
+border-width: 3px;
+border-top-left-radius:0px;
+border-top-right-radius:15px;
+border-bottom-right-radius:0px;
+border-bottom-left-radius:15px;
+text-align: justify;
+line-height:1.6em;
+font-weight:bold;
+margin:100px;
+margin-right:475px;
+}
+
+.boxB{
+background-color:white;
+border-color:black;
+border-style: solid;
+border-width: 3px;
+border-top-left-radius:15px;
+border-top-right-radius:0px;
+border-bottom-right-radius:15px;
+border-bottom-left-radius:0px;
+margin:100px;
+margin-left:500px;
+font-weight: bold;
+text-align: justify;
+line-height:1.6em;
+font-weight:bold;
+}
+
